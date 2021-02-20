@@ -1,2 +1,2 @@
 # CtWireless
-GSAP landing page
+Create an animated landing page using GSAP
